@@ -56,3 +56,9 @@
 * Training - https://developer.android.com/training/index.html
 * API Guides - https://developer.android.com/guide/index.html
 * Kotlin Reference - https://kotlinlang.org/docs/reference/
+
+[NOTE.speaker]
+====
+Para generar PDF se debe agregar esto al final del link:
+?showNotes=separate-page&print-pdf
+====
