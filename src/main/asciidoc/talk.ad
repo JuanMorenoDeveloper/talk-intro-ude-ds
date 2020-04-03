@@ -1,4 +1,4 @@
-= Programación de Aplicaciones distribuidas Java / .NET (2019)
+= Programación de Aplicaciones distribuidas Java / .NET (2020)
 
 
 == Presentación del curso
@@ -15,47 +15,55 @@
 
 * Régimen: Viernes (20 a 22 - materia anual)
 
-* Primera clase: Viernes 22 de Marzo de 2019 
+* Primera clase: Viernes 03 de Abril de 2020 
 
-* Última clase: Viernes 29 de Noviembre de 2019
+* Última clase: Viernes 27 de Noviembre de 2020
 
 * No hay clases los feriados, turismo ni en los recesos por parciales.
 
 == Información del curso
 
-* 1º parcial Viernes 02/08 - 20 hs: 100 pts (mínimo 40) - 37,5% de la nota final.
-* 2º parcial Miércoles 09/12 - 20 hs: 100 pts (mínimo 60) - 37,5% de la nota final.
+* 1º parcial Sábado 25/07 - 20 hs: 100 pts (mínimo 40) - 37,5% de la nota final.
+* 2º parcial Lunes 07/12 - 20 hs: 100 pts (mínimo 60) - 37,5% de la nota final.
 * Entre ambos parciales deben obtener al menos 120/200.
 * Trabajo Obligatorio: 100 pts (mínimo 60) - 25% de la nota final.
 
 == Objetivos del curso
-* Presentar conceptos básicos sobre sistemas distribuidos, arquitectura y diseño de sistemas
-
-* Conocer conceptos generales sobre desarrollo de aplicaciones Mobile y las tendencias actuales.
-
-* Desarrollar aplicaciones utilizando Android
+* Presentar conceptos básicos sobre  sistemas distribuidos, arquitectura y diseño de sistemas
+* Conocer conceptos generales sobre desarrollo de aplicaciones Mobile y las tendencias actuales
+* Desarrollar aplicaciones móviles utilizando Android
+* Integración de sistemas usando Web Services
 
 == Temario
 
-* Introducción a Sistemas Distribuidos
+* Introducción a los sistemas distribuidos
+* Introducción a Kotlin y Gradle
+* Principios SOLID. Testing y Arquitectura Clean
+* Introducción al desarrollo Mobile
+* Desarrollo de aplicaciones Android
 
-* Desarrollo con Kotlin
+== Temario
 
-* Desarrollo de aplicaciones Mobile (Android y PWA)
-
-* Integración de sistemas usando Web Services
+* Uso de patrones MVP/MVVM
+* Conceptos persistencia y Bases de Datos en Android (SQLite/SharedPreferences)
+* Ejecución de tareas en segundo plano
+* Fundamentos de Web Services
+* Introducción a aplicaciones web progresivas (PWA)
 
 == Bibliografía
 
-* van Steen M., Tanenbaum A. S., Distributed Systems 3.02 (2018).
-
+* van Steen M., Tanenbaum A. S., Distributed Systems 3.02 (2018)
 * Jemerov D., Isakova S., Kotlin in Action (2016)
+* Leiva Antonio, Kotlin for Android Developers (2017)
+* Lake Ian, Meier Reto, Professional Android (2018)
 
 == Bibliografía
 
-* Training - https://developer.android.com/training/index.html
-* API Guides - https://developer.android.com/guide/index.html
-* Kotlin Reference - https://kotlinlang.org/docs/reference/
+* Developer Guides - Android - https://developer.android.com/guide/index.html
+* Google Codelabs - https://codelabs.developers.google.com/?cat=Android
+* Reference - Kotlin Programming Language -  https://kotlinlang.org/docs/reference/
+
+
 
 [NOTE.speaker]
 ====
